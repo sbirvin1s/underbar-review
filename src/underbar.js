@@ -120,10 +120,10 @@
   _.uniq = function(array, isSorted, iterator) {
     // create results variable
     // iterate over given array
-      // iterate over the rest of the array
-        // check if current index is equal to current index of first loop
-        // if indexes don't match
-          // push index to results
+    //   iterate over the rest of the array
+    //     check if current index is equal to current index of first loop
+    //     if indexes don't match
+    //       push index to results
     // return results
 
     let results = [];
